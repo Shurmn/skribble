@@ -5,7 +5,7 @@
 ## Overview
 
 #### Ability Scores
-* Str +2 (8)
+* Str -1 (8)
 * Dex +3 (16)
 * Con -1 (8)
 * Int +2 (14)
