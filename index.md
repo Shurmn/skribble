@@ -3,15 +3,15 @@
 <p align="center"><img src="https://github.com/Shurmn/Shurmn.github.io/blob/master/_img/card.png?raw=true"/></p>
 
 ## Overview
-STR | DEX | CON | INT | WIS | CHA
---- | --- | --- | --- | --- | ---
--1 (8)|+3 (16)|-1 (8)|+2 (14)|0 (10)|+3 (16)
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|-1 (8)|+3 (16)|-1 (8)|+2 (14)|0 (10)|+3 (16)|
 #### Skill Proficiencies
-*Arcana
-*Deception
-*History
-*Light Armor
-*Stealth
+* Arcana
+* Deception
+* History
+* Light Armor
+* Stealth
 
 ## Warlock Class Features
 
