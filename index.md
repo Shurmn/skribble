@@ -3,9 +3,13 @@
 <p align="center"><img src="https://github.com/Shurmn/Shurmn.github.io/blob/master/_img/card.png?raw=true"/></p>
 
 ## Overview
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|-1 (8)|+3 (16)|-1 (8)|+2 (14)|0 (10)|+3 (16)|
+#### Ability Scores
+* Str +2 (8)
+* Dex +3 (16)
+* Con -1 (8)
+* Int +2 (14)
+* Wis +0 (10)
+* Cha +3 (16)
 #### Skill Proficiencies
 * Arcana
 * Deception
