@@ -1,6 +1,6 @@
-# TOPTEXTLOL
+# Kenku Warlock - Chaotic Neutral
 
-## Kenku Warlock
+## Warlock Class Features
 
 ### Patron: Great Old One
 
