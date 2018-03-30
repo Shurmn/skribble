@@ -1,6 +1,7 @@
+# TOPTEXTLOL
+
 ## Kenku Warlock
 
-# Background
 Purchased as a nestling by a mage's guild for 100 gp, Skribble was trained to copy all manner of writings, but not to read them. Involuntarily employed as the guild's scribe, he was effectively held captive in the library throughout childhood. Guild magic and manipulation ensured his subservience.
 
 In spring of his seventeenth year, the guild archaeologists returned from a distant expedition with an ancient, powerful book. Attempts to decipher it ended tragically, as readers became stricken with an ineffable madness. Deemed expendable following the gruesome death of the archmage, Skribble was tasked with copying the cursed book.
