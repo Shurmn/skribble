@@ -13,12 +13,12 @@
 * Cha +3 (16)
 
 #### Skill Proficiencies
-* Arcana
-* Deception
-* History
-* Light Armor
-* Simple Weapons
-* Stealth
+* Arcana (Int)
+* Deception (Cha)
+* History (Int)
+* Light Armor (Dex)
+* Simple Weapons (Dex)
+* Stealth (Dex)
 
 ## Background
 
