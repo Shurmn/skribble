@@ -4,7 +4,7 @@
 
 ## Overview
 STR | DEX | CON | INT | WIS | CHA
-----|-----|-----|-----|-----|-----
+--- | --- | --- | --- | --- | ---
 -1 (8)|+3 (16)|-1 (8)|+2 (14)|+3 (16)
 #### Skill Proficiencies
 *Arcana
