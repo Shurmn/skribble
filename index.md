@@ -1,6 +1,6 @@
 # Kenku Warlock - Chaotic Neutral
 
-![Image of Skribble](https://shurmn.github.com/_img/card.png
+![Image of Skribble](Shurmn.github.io/_img/card.png)
 
 ## Overview
 
