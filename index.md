@@ -23,11 +23,11 @@
 * Stealth (Dex)
 
 #### Cantrips Known
-* Dancing Lights *(BoAS)*
+* Dancing Lights *(Tome)*
 * Eldritch Blast
-* Guidance *(BoAS)*
+* Guidance *(Tome)*
 * Minor Illusion
-* Prestidigitation *(BoAS)*
+* Prestidigitation *(Tome)*
 
 #### Warlock Spells Known
 *
