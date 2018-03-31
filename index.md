@@ -30,6 +30,8 @@
 * Prestidigitation *(Tome)*
 
 #### Warlock Spells Known
+* Comprehend Languages *(Ritual, BoAS)*
+* Find Familiar *(Ritual, BoAS)*
 * Invisibility
 * Mirror Image
 * Suggestion
