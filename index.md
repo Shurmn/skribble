@@ -37,6 +37,10 @@
 * Suggestion
 * Phantasmal Force
 
+#### Languages Spoken
+* Common
+* Auran
+
 ## Background
 
 #### Scribe
