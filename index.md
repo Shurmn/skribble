@@ -23,19 +23,19 @@
 * Stealth (Dex)
 
 #### Cantrips Known
-* [Dancing Lights](https://thebombzen.com/grimoire/spells/Dancing-Lights) *(Tome)*
+* [Dancing Lights](https://thebombzen.com/grimoire/spells/dancing-lights) *(Tome)*
 * [Eldritch Blast](https://thebombzen.com/grimoire/spells/eldritch-blast)
-* Guidance *(Tome)*
-* Minor Illusion
-* Prestidigitation *(Tome)*
+* [Guidance](https://thebombzen.com/grimoire/spells/guidance) *(Tome)*
+* [Minor Illusion](https://thebombzen.com/grimoire/spells/minor-illusion)
+* [Prestidigitation](https://thebombzen.com/grimoire/spells/prestidigitation) *(Tome)*
 
 #### Warlock Spells Known
-* Comprehend Languages *(Ritual, BoAS)*
-* Find Familiar *(Ritual, BoAS)*
-* Invisibility
-* Mirror Image
-* Suggestion
-* Phantasmal Force
+* [Comprehend Languages](https://thebombzen.com/grimoire/spells/comprehend-languages) *(Ritual, BoAS)*
+* [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
+* [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
+* [Mirror Image](https://thebombzen.com/grimoire/spells/mirror-image)
+* [Suggestion]https://thebombzen.com/grimoire/spells/suggestion)
+* [Phantasmal Force]https://thebombzen.com/grimoire/spells/phantasmal-force)
 
 #### Languages Spoken
 * Common
