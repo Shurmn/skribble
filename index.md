@@ -21,6 +21,7 @@
 * Light Armor (Dex)
 * Simple Weapons (Dex)
 * Stealth (Dex)
+* Tool: Forgery Kit
 
 #### Cantrips Known
 * [Dancing Lights](https://thebombzen.com/grimoire/spells/dancing-lights) *(Tome)*
@@ -38,8 +39,9 @@
 * [Phantasmal Force](https://thebombzen.com/grimoire/spells/phantasmal-force)
 
 #### Languages Spoken
-* Common
 * Auran
+* Common
+* Deep Speech
 
 ## Background
 
@@ -83,7 +85,7 @@ You can cast disguise self at will, without expending a spell slot.
 ## Kenku Race Features
 A race of crow-like, wingless Avians that communicate through their ability to flawlessly imitate any sound they hear. These flightless people often form thieves guilds, referred to as "flocks" in major cities and quite often work as burglars, pickpockets, and assassins.
 
-**Skill Proficiencies:** Deception, Stealth
+**Skill Proficiencies:** Deception, Forgery Kit, Stealth 
 
 **Ability Score Increase:** Dexterity +2 and Wisdom +1
 
