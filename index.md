@@ -73,3 +73,14 @@ You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-lev
 **Mask of Many Faces**
 
 You can cast disguise self at will, without expending a spell slot.
+
+## Kenku Race Features
+A race of crow-like, wingless Avians that communicate through their ability to flawlessly imitate any sound they hear. These flightless people often form thieves guilds, referred to as "flocks" in major cities and quite often work as burglars, pickpockets, and assassins.
+
+**Skill Proficiencies:** Deception, Stealth
+
+**Ability Score Increase:** Dexterity +2 and Wisdom +1
+
+**Expert Forgery:** You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.
+
+**Mimicry:** You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.
