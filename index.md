@@ -34,8 +34,8 @@
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
 * [Mirror Image](https://thebombzen.com/grimoire/spells/mirror-image)
-* [Suggestion]https://thebombzen.com/grimoire/spells/suggestion)
-* [Phantasmal Force]https://thebombzen.com/grimoire/spells/phantasmal-force)
+* [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
+* [Phantasmal Force](https://thebombzen.com/grimoire/spells/phantasmal-force)
 
 #### Languages Spoken
 * Common
