@@ -23,8 +23,8 @@
 * Stealth (Dex)
 
 #### Cantrips Known
-* Dancing Lights *(Tome)*
-* Eldritch Blast
+* [Dancing Lights](https://thebombzen.com/grimoire/spells/Dancing-Lights) *(Tome)*
+* [Eldritch Blast](https://thebombzen.com/grimoire/spells/eldritch-blast)
 * Guidance *(Tome)*
 * Minor Illusion
 * Prestidigitation *(Tome)*
