@@ -16,9 +16,22 @@
 * Arcana (Int)
 * Deception (Cha)
 * History (Int)
+* Intimidation (Cha)
+* Investigation (Int)
 * Light Armor (Dex)
 * Simple Weapons (Dex)
 * Stealth (Dex)
+
+#### Cantrips Known
+* Dancing Lights *(BoAS)*
+* Eldritch Blast
+* Guidance *(BoAS)*
+* Minor Illusion
+* Prestidigitation *(BoAS)*
+
+#### Warlock Spells Known
+*
+* Mirror Image
 
 ## Background
 
@@ -45,3 +58,5 @@ Bearing only the book and his favorite pen, newly free yet subconciously guided 
 
 #### Pact of the Tome
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
+
+**Skill Proficiencies:** Intimidation, Investigation, Light Armor, Simple Weapons
