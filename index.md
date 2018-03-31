@@ -30,8 +30,10 @@
 * Prestidigitation *(Tome)*
 
 #### Warlock Spells Known
-*
+* Invisibility
 * Mirror Image
+* Suggestion
+* Phantasmal Force
 
 ## Background
 
