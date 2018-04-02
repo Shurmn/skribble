@@ -32,6 +32,7 @@
 
 #### Warlock Spells Known
 * [Comprehend Languages](https://thebombzen.com/grimoire/spells/comprehend-languages) *(Ritual, BoAS)*
+* [Disguise Self] (https://thebombzen.com/grimoire/spells/disguise-self) *(At-will, Invocation)*
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
 * [Mirror Image](https://thebombzen.com/grimoire/spells/mirror-image)
