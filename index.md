@@ -28,12 +28,13 @@
 * [Eldritch Blast](https://thebombzen.com/grimoire/spells/eldritch-blast)
 * [Guidance](https://thebombzen.com/grimoire/spells/guidance) *(Tome)*
 * [Minor Illusion](https://thebombzen.com/grimoire/spells/minor-illusion)
-* [Prestidigitation](https://thebombzen.com/grimoire/spells/prestidigitation) *(Tome)*
+* [Prestidigitation](https://thebombzen.com/grimoire/spells/prestidigitation)
 
 #### Warlock Spells Known
 * [Comprehend Languages](https://thebombzen.com/grimoire/spells/comprehend-languages) *(Ritual, BoAS)*
 * [Disguise Self](https://thebombzen.com/grimoire/spells/disguise-self) *(At-will, Invocation)*
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
+* [Hunger of Hadar](https://thebombzen.com/grimoire/spells/hunger-of-hadar)
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
 * [Mirror Image](https://thebombzen.com/grimoire/spells/mirror-image)
 * [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
