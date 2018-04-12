@@ -34,16 +34,18 @@
 * [Guidance](https://thebombzen.com/grimoire/spells/guidance) *(Tome)*
 * [Minor Illusion](https://thebombzen.com/grimoire/spells/minor-illusion)
 * [Prestidigitation](https://thebombzen.com/grimoire/spells/prestidigitation)
+* [Spare the Dying](https://thebombzen.com/grimoire/spells/spare-the-dying) *(Tome)*
 
 #### Warlock Spells Known
 * [Comprehend Languages](https://thebombzen.com/grimoire/spells/comprehend-languages) *(Ritual, BoAS)*
 * [Disguise Self](https://thebombzen.com/grimoire/spells/disguise-self) *(At-will, Invocation)*
+* [Fear](https://thebombzen.com/grimoire/spells/fear)
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
+* [Hex](https://thebombzen.com/grimoire/spells/hex)
 * [Hunger of Hadar](https://thebombzen.com/grimoire/spells/hunger-of-hadar)
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
-* [Mirror Image](https://thebombzen.com/grimoire/spells/mirror-image)
-* [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
 * [Phantasmal Force](https://thebombzen.com/grimoire/spells/phantasmal-force)
+* [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
 
 #### Languages Spoken
 * Auran
@@ -79,6 +81,11 @@ Bearing only the book and his favorite pen, newly free yet subconciously guided 
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
 #### Eldritch Invocations
+
+**Agonizing Blast**
+
+When you cast Eldritch Blast, add your Charisma modifier to the damage it deals on a hit.
+
 **Book of Ancient Secrets**
 
 Prerequisite: Pact of the Tome feature
