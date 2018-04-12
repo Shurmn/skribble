@@ -10,7 +10,7 @@
 * Con -1 (8)
 * Int +2 (14)
 * Wis +0 (10)
-* Cha +3 (16)
+* Cha +4 (18)
 
 #### Skill Proficiencies
 * Arcana (Int)
@@ -22,6 +22,11 @@
 * Simple Weapons (Dex)
 * Stealth (Dex)
 * Tool: Forgery Kit
+
+#### Casting Modifiers
+
+* Spell attack bonus: (Cha) + (Prof.) = 4 + 3 = **7**
+* Spell save DC: (base) + (Cha) + (Prof.) = 8 + 4 + 3 = **15**
 
 #### Cantrips Known
 * [Dancing Lights](https://thebombzen.com/grimoire/spells/dancing-lights) *(Tome)*
