@@ -31,18 +31,18 @@
 #### Cantrips Known
 * [Dancing Lights](https://thebombzen.com/grimoire/spells/dancing-lights) *(Tome)*
 * [Eldritch Blast](https://thebombzen.com/grimoire/spells/eldritch-blast)
-* [Guidance](https://thebombzen.com/grimoire/spells/guidance) *(Tome)*
 * [Minor Illusion](https://thebombzen.com/grimoire/spells/minor-illusion)
 * [Prestidigitation](https://thebombzen.com/grimoire/spells/prestidigitation)
+* [Primal Savagery](https://thebombzen.com/grimoire/spells/primal-savagery) *(Tome)*
 * [Spare the Dying](https://thebombzen.com/grimoire/spells/spare-the-dying) *(Tome)*
 
 #### Warlock Spells Known
 * [Comprehend Languages](https://thebombzen.com/grimoire/spells/comprehend-languages) *(Ritual, BoAS)*
+* [Detect Thoughts](https://thebombzen.com/grimoire/spells/disguise-self)
 * [Disguise Self](https://thebombzen.com/grimoire/spells/disguise-self) *(At-will, Invocation)*
 * [Fear](https://thebombzen.com/grimoire/spells/fear)
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
-* [Hex](https://thebombzen.com/grimoire/spells/hex)
-* [Hunger of Hadar](https://thebombzen.com/grimoire/spells/hunger-of-hadar)
+* [Armor of Agathys](https://thebombzen.com/grimoire/spells/armor-of-agathys)
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
 * [Phantasmal Force](https://thebombzen.com/grimoire/spells/phantasmal-force)
 * [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
