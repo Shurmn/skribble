@@ -37,12 +37,12 @@
 * [Spare the Dying](https://thebombzen.com/grimoire/spells/spare-the-dying) *(Tome)*
 
 #### Warlock Spells Known
+* [Armor of Agathys](https://thebombzen.com/grimoire/spells/armor-of-agathys)
 * [Comprehend Languages](https://thebombzen.com/grimoire/spells/comprehend-languages) *(Ritual, BoAS)*
 * [Detect Thoughts](https://thebombzen.com/grimoire/spells/disguise-self)
 * [Disguise Self](https://thebombzen.com/grimoire/spells/disguise-self) *(At-will, Invocation)*
 * [Fear](https://thebombzen.com/grimoire/spells/fear)
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
-* [Armor of Agathys](https://thebombzen.com/grimoire/spells/armor-of-agathys)
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
 * [Phantasmal Force](https://thebombzen.com/grimoire/spells/phantasmal-force)
 * [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
