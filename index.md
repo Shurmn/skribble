@@ -39,7 +39,7 @@
 #### Warlock Spells Known
 * [Armor of Agathys](https://thebombzen.com/grimoire/spells/armor-of-agathys)
 * [Comprehend Languages](https://thebombzen.com/grimoire/spells/comprehend-languages) *(Ritual, BoAS)*
-* [Detect Thoughts](https://thebombzen.com/grimoire/spells/disguise-self)
+* [Detect Thoughts](https://thebombzen.com/grimoire/spells/detect-thoughts)
 * [Disguise Self](https://thebombzen.com/grimoire/spells/disguise-self) *(At-will, Invocation)*
 * [Fear](https://thebombzen.com/grimoire/spells/fear)
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
