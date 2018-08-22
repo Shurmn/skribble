@@ -57,7 +57,7 @@
 * [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
 
 #### Noteworthy Equipment
-**Rod of the Pact Keeper** - Uncommon (+1) - While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. The bonus is determined by the rod’s rarity. In addition, you can regain 1 warlock spell slot as an action while holding the rod. You can’t use this property again until you finish a long rest.
+**Rod of the Pact Keeper**: Uncommon (+1) - While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. The bonus is determined by the rod’s rarity. In addition, you can regain 1 warlock spell slot as an action while holding the rod. You can’t use this property again until you finish a long rest.
 
 #### Languages Spoken
 * Auran
@@ -80,35 +80,27 @@ Bearing only the book and his favorite pen, newly free yet subconciously guided 
 #### Background Features
 **Skill Proficiencies:** Arcana, History
 
-**Researcher**: When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
+**Researcher:** When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
 
 ## Warlock Class Features
 
 **Skill Proficiencies:** Intimidation, Investigation, Light Armor, Simple Weapons
 
 #### Patron Features: Great Old One
-**Awakened Mind** - Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+**Awakened Mind**: Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
 
-**Entropic Ward** - At 6th level, when a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
+**Entropic Ward**: At 6th level, when a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 #### Pact of the Tome
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
 
 #### Eldritch Invocations
 
-**Agonizing Blast**
+**Agonizing Blast:** When you cast Eldritch Blast, add your Charisma modifier to the damage it deals on a hit.
 
-When you cast Eldritch Blast, add your Charisma modifier to the damage it deals on a hit.
+**Book of Ancient Secrets:** You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag. On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
-**Book of Ancient Secrets**
-
-Prerequisite: Pact of the Tome feature
-
-You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag. On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
-
-**Mask of Many Faces**
-
-You can cast disguise self at will, without expending a spell slot.
+**Mask of Many Faces:** You can cast disguise self at will, without expending a spell slot.
 
 ## Kenku Race Features
 A race of crow-like, wingless Avians that communicate through their ability to flawlessly imitate any sound they hear. These flightless people often form thieves guilds, referred to as "flocks" in major cities and quite often work as burglars, pickpockets, and assassins.
