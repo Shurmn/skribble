@@ -4,6 +4,8 @@
 
 ## Overview
 
+#### Max HP : **27**
+
 #### Ability Scores
 * Str -1 (8)
 * Dex +3 (16)
@@ -11,6 +13,8 @@
 * Int +2 (14)
 * Wis +0 (10)
 * Cha +4 (18)
+
+#### Proficiency Bonus : **+3**
 
 #### Skill Proficiencies
 * Arcana (Int)
@@ -23,12 +27,14 @@
 * Stealth (Dex)
 * Tool: Forgery Kit
 
-#### Max HP : 27
+#### Saving Throw Proficiencies
+* Wisdom
+* Charisma
 
 #### Casting Modifiers
 
-* Spell attack bonus: (Cha) + (Prof.) = 4 + 3 = **7**
-* Spell save DC: (base) + (Cha) + (Prof.) = 8 + 4 + 3 = **15**
+* Spell attack bonus: (Cha) + (Prof.) + (RotPK) = 4 + 3 + 1 = **8**
+* Spell save DC: (base) + (Cha) + (Prof.) + (RotPK) = 8 + 4 + 3 + 1 = **15**
 
 #### Cantrips Known
 * [Dancing Lights](https://thebombzen.com/grimoire/spells/dancing-lights) *(Tome)*
@@ -49,6 +55,9 @@
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
 * [Phantasmal Force](https://thebombzen.com/grimoire/spells/phantasmal-force)
 * [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
+
+#### Noteworthy Equipment
+**Rod of the Pact Keeper** - Uncommon (+1) - While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. The bonus is determined by the rod’s rarity. In addition, you can regain 1 warlock spell slot as an action while holding the rod. You can’t use this property again until you finish a long rest.
 
 #### Languages Spoken
 * Auran
