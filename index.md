@@ -1,4 +1,4 @@
-# Kenku Warlock - Chaotic Neutral
+# Kenku - Warlock VI - Chaotic Neutral
 
 <p align="center"><img src="https://github.com/Shurmn/Shurmn.github.io/blob/master/_img/card.png?raw=true"/></p>
 
@@ -23,6 +23,8 @@
 * Stealth (Dex)
 * Tool: Forgery Kit
 
+#### Max HP : 27
+
 #### Casting Modifiers
 
 * Spell attack bonus: (Cha) + (Prof.) = 4 + 3 = **7**
@@ -43,6 +45,7 @@
 * [Disguise Self](https://thebombzen.com/grimoire/spells/disguise-self) *(At-will, Invocation)*
 * [Fear](https://thebombzen.com/grimoire/spells/fear)
 * [Find Familiar](https://thebombzen.com/grimoire/spells/find-familiar) *(Ritual, BoAS)*
+* [Hunger of Hadar](https://thebombzen.com/grimoire/spells/hunger-of-hadar)
 * [Invisibility](https://thebombzen.com/grimoire/spells/invisibility)
 * [Phantasmal Force](https://thebombzen.com/grimoire/spells/phantasmal-force)
 * [Suggestion](https://thebombzen.com/grimoire/spells/suggestion)
@@ -74,8 +77,9 @@ Bearing only the book and his favorite pen, newly free yet subconciously guided 
 
 **Skill Proficiencies:** Intimidation, Investigation, Light Armor, Simple Weapons
 
-#### Patron: Great Old One
+#### Patron Features: Great Old One
 **Awakened Mind** - Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+**Entropic Ward** - At 6th level, when a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 #### Pact of the Tome
 Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list (the three needn't be from the same list). While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. If they don't appear on the warlock spell list, they are nonetheless warlock spells for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.
