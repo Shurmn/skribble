@@ -79,6 +79,7 @@ Bearing only the book and his favorite pen, newly free yet subconciously guided 
 
 #### Patron Features: Great Old One
 **Awakened Mind** - Starting at 1st level, your alien knowledge gives you the ability to touch the minds of other creatures. You can communicate telepathically with any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
 **Entropic Ward** - At 6th level, when a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 #### Pact of the Tome
