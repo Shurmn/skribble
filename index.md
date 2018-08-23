@@ -109,7 +109,7 @@ In spring of his seventeenth year, the guild archaeologists returned from a dist
 
 Though he could not read the runes he feverishly wrote, flickers and hints of meaning nonetheless began to invade his perception and memory. Slowly at first, he began to imagine psychic whispers promising a path to freedom, as he sat copying gibberish for days without end. In the night of the 13th day, in a state between dream and delirium, Skribble spoke a reply into the v͊ͮ͛̓͑̑̚o̿i͌̔̇ͬ̏̇͟d̸. His mind awakened, and Skribble became suffused with the alien magic of a slumbering O̘͖ͯ͋̀ḷ̓ͮͩd͚͚̮̣̞̠̯͌͋ͧ͠ ͭ̂̆̋͋G͚̞̝̭̖̬̅̈̐͛̈o͇̪͓͊̓͆ͫ̆d̀̊ͨͮ͡ from beyond the far realms.
 
-The psychic wake of this cosmic passing crashed over the library and spilled out into the surrounding reality, warping the very minds of the mages. Bloody pandemonium ensued throughout the guild campus as violent insanity gripped the scholars and staff. By daybreak, Skribble stood among the smoldering ruins, sole survivor of the only home he had ever known.
+The p̨śỳ͟͢c̛h͢͝͠i͡c̀ ̸͡wa̧̢̧k̵̵͢e͟͜ of this cosmic passing crashed over the library and spilled out into the surrounding reality, warping the very minds of the mages. Bloody pandemonium ensued throughout the guild campus as violent insanity gripped the scholars and staff. By daybreak, Skribble stood among the smoldering ruins, sole survivor of the only home he had ever known.
 
 Bearing only the book and his favorite pen, a gleefully free Skribble ventured out into the world, subconciously guided by eldritch murmurings from beyond mortal perception.
 
