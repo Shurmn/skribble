@@ -111,7 +111,7 @@ Though he could not read the runes he feverishly wrote, flickers and hints of me
 
 The psychic wake of this cosmic passing crashed over the library and spilled out into the surrounding reality, warping the very minds of the mages. Bloody pandemonium ensued throughout the guild campus as violent insanity gripped the scholars and staff. By daybreak, Skribble stood among the smoldering ruins, sole survivor of the only home he had ever known.
 
-Bearing only the book and his favorite pen, a gleefully free Skribble ventured out into the world, subconciously guided by eldritch whisperings from beyond mortal perception.
+Bearing only the book and his favorite pen, a gleefully free Skribble ventured out into the world, subconciously guided by eldritch murmurings from beyond mortal perception.
 
 #### Career Adventurer
 In a obsessive (but perhaps, somewhat meandering) search for knowledge of the old god Hastur, Skribble scoured the world for its innermost secrets, delving into increasingly risky places and bargains for the promise of more powerful secrets.
