@@ -118,4 +118,4 @@ In a obsessive (but perhaps, somewhat meandering) search for knowledge of the ol
 
 While undertaking some contractual marital ambuscade, Skribble attached himself to a party of adventurers based out of the small mining town of Phandalin.
 
-This would later turn out to be the same adventurers responsible for triggering the initial necromantic surge originating in Shimmerwind, ushering in the now infamous apocalyptic conditions plaguing borderland regions.
+The same party of adventurers were later responsible for triggering the now infamous necromantic surge at Shimmerwind, ushering in a cataclysm that would grow to plague the entire region. A pattern was forming.
