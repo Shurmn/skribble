@@ -116,6 +116,6 @@ Bearing only the book and his favorite pen, a gleefully free Skribble ventured o
 #### Career Adventurer
 In a obsessive (but perhaps, somewhat meandering) search for knowledge of the old god Hastur, Skribble scoured the world for its innermost secrets, delving into increasingly risky places and bargains for the promise of more powerful secrets.
 
-While undertaking some contractual marital ambuscade, Skribble attached himself to a party of adventurers based out of the small mining town of Phandalin. This party was responsible for triggering the now infamous necromantic surge at Shimmerwind, ushering in a cataclysm that would grow to plague the entire region.
+While undertaking some contractual marital ambuscade, Skribble attached himself to a party of adventurers based out of the small mining town of Phandalin. This party was later responsible for triggering the now infamous necromantic surge at Shimmerwind, ushering in a cataclysm that would grow to plague the entire region.
 
 A pattern was forming.
