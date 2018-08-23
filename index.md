@@ -114,7 +114,7 @@ The psychic wake of this cosmic passing crashed over the library and spilled out
 Bearing only the book and his favorite pen, a gleefully free Skribble ventured out into the world, subconciously guided by eldritch murmurings from beyond mortal perception.
 
 #### Career Adventurer
-In a obsessive (but perhaps, somewhat meandering) search for knowledge of the old god Hastur, Skribble scoured the world for its innermost secrets, delving into increasingly risky places and bargains for the promise of more powerful secrets.
+In a obsessive (but perhaps, somewhat meandering) search for knowledge of the old god H̸̨͑ͤ̐̇̅҉̼͖a̷̖͍̭ͬͣ̆ͫ̾ͯͬ͢s̔͊̋̂҉̵̫̬̱͇͙t̴̡̡̮͈͕͇̯̺̼͋̆ͮ̒̔ͭͥư̔͆̇ͫ̏͛҉̫̩r̵̢̞̰͖̞̬͎ͦ̂̀, Skribble scoured the world for its innermost secrets, delving into increasingly risky places and bargains for the promise of more powerful secrets.
 
 While undertaking some contractual marital ambuscade, Skribble attached himself to a party of adventurers based out of the small mining town of Phandalin. This party was later responsible for triggering the now infamous necromantic surge at Shimmerwind, ushering in a cataclysm that would grow to plague the entire region.
 
