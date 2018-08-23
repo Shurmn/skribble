@@ -64,24 +64,6 @@
 * Common
 * Deep Speech
 
-## Background
-
-#### Scribe
-Purchased as a nestling by a mage's guild for 100 gp, Skribble was trained to copy all manner of writings, but not to read them. Involuntarily employed as the guild's scribe, he was effectively held captive in the library throughout childhood. Guild magic and manipulation ensured his subservience.
-
-In spring of his seventeenth year, the guild archaeologists returned from a distant expedition with an ancient, powerful book. Attempts to decipher it ended tragically, as readers became stricken with an ineffable madness. Deemed expendable following the gruesome death of the archmage, Skribble was tasked with copying the cursed book.
-
-Though he could not read the runes he feverishly wrote, flickers and hints of meaning nonetheless began to invade his perception and memory. Slowly at first, he began to imagine psychic whispers promising a path to freedom, as he sat copying gibberish for days without end. In the night of the 13th day, in a state between dream and delirium, Skribble spoke a reply into the void. His mind awakened, and Skribble became suffused with the alien magic of a slumbering Old God from beyond the far realms.
-
-The psychic wake of this cosmic passing crashed over the library and spilled out into the surrounding reality, warping the very minds of the mages. Bloody pandemonium ensued throughout the guild campus as violent insanity gripped the scholars and staff. By daybreak, Skribble stood among the smoldering ruins, sole survivor of the only home he had ever known.
-
-Bearing only the book and his favorite pen, newly free yet subconciously guided by whispers from beyond perception, Skribble ventured out into the world.
-
-#### Background Features
-**Skill Proficiencies:** Arcana, History
-
-**Researcher:** When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
-
 ## Warlock Class Features
 
 **Skill Proficiencies:** Intimidation, Investigation, Light Armor, Simple Weapons
@@ -112,3 +94,28 @@ A race of crow-like, wingless Avians that communicate through their ability to f
 **Expert Forgery:** You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.
 
 **Mimicry:** You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.
+
+## Background
+
+#### Background Features
+**Skill Proficiencies:** Arcana, History
+
+**Researcher:** When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it. Usually, this information comes from a library, scriptorium, university, or a sage or other learned person or creature. Your DM might rule that the knowledge you seek is secreted away in an almost inaccessible place, or that it simply cannot be found. Unearthing the deepest secrets of the multiverse can require an adventure or even a whole campaign.
+
+#### Origin: Mage's Guild Scribe
+Purchased as a nestling by a mage's guild for 100 gp, Skribble was trained to copy all manner of writings, but not to read them. Involuntarily employed as the guild's scribe, he was effectively held captive in the library throughout childhood. Guild magic and manipulation ensured his subservience.
+
+In spring of his seventeenth year, the guild archaeologists returned from a distant expedition with an ancient, powerful book. Attempts to decipher it ended tragically, as readers became stricken with an ineffable madness. Deemed expendable following the gruesome death of the archmage, Skribble was tasked with copying the cursed book.
+
+Though he could not read the runes he feverishly wrote, flickers and hints of meaning nonetheless began to invade his perception and memory. Slowly at first, he began to imagine psychic whispers promising a path to freedom, as he sat copying gibberish for days without end. In the night of the 13th day, in a state between dream and delirium, Skribble spoke a reply into the void. His mind awakened, and Skribble became suffused with the alien magic of a slumbering Old God from beyond the far realms.
+
+The psychic wake of this cosmic passing crashed over the library and spilled out into the surrounding reality, warping the very minds of the mages. Bloody pandemonium ensued throughout the guild campus as violent insanity gripped the scholars and staff. By daybreak, Skribble stood among the smoldering ruins, sole survivor of the only home he had ever known.
+
+Bearing only the book and his favorite pen, a gleefully free Skribble ventured out into the world, subconciously guided by eldritch whisperings from beyond mortal perception.
+
+#### Career Adventurer
+In a obsessive (but perhaps, somewhat meandering) search for knowledge of the old god Hastur, Skribble scoured the world for its innermost secrets, delving into increasingly risky places and bargains for the promise of more powerful secrets.
+
+While undertaking some contractual marital ambuscade, Skribble attached himself to a party of adventurers based out of the small mining town of Phandalin.
+
+This would later turn out to be the same adventurers responsible for triggering the initial necromantic surge originating in Shimmerwind, ushering in the now infamous apocalyptic conditions plaguing borderland regions.
